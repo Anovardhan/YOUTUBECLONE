@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+background-color: : #0f0f0f;
+}
+
+.ALL button {
+  border : none;
+
+
+}
+.ALL button:hover {
+  background-color: : #0f0f0f;
+  color : blue;
+  
+}
+.chinnu::-webkit-scrollbar{
+  width : 0
+}
